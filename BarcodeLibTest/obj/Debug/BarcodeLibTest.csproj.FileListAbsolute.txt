@@ -1,0 +1,15 @@
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\bin\Debug\Release Notes.txt
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\bin\Debug\BarcodeLib.dll
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\bin\Debug\BarcodeLib.pdb
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.csprojResolveAssemblyReference.cache
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.TestApp.resources
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb

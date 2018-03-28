@@ -1,0 +1,6 @@
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLib\bin\Debug\Release Notes.txt
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\PROGETTI\laevia\barcodelibrary\BarcodeLib\obj\Debug\BarcodeLib.pdb
